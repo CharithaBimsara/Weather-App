@@ -25,7 +25,7 @@ A simple **weather application** built using **HTML, CSS, and JavaScript** that 
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/YourGitHubUsername/WeatherApp.git
+git clone https://github.com/CharithaBimsara/Weather_Web_Page---JS.git
 ```
 
 ### 2️⃣ Navigate to the project folder
@@ -71,10 +71,6 @@ WeatherApp/
 │── script.js               # JavaScript file for fetching API data
 │── README.md               # Project documentation (this file)
 ```
-
-## ❗ Known Issues
-
-- The weather condition **"Clouds"** is misspelled as `"Coluds"` in the JavaScript code. This needs to be corrected.
 
 ## 🤝 Contribution Guidelines
 
