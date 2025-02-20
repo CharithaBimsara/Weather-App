@@ -2,6 +2,10 @@
 
 A simple **weather application** built using **HTML, CSS, and JavaScript** that fetches real-time weather data from the OpenWeatherMap API. Users can enter a city name and get weather details like temperature, humidity, wind speed, and an appropriate weather icon.
 
+## Demo
+
+[Live Demo](https://charithabimsara.github.io/Weather_Web_Page---JS/)
+
 ## 🚀 Features
 
 - 🔍 **Search for any city** to get real-time weather details.
