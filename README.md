@@ -4,7 +4,7 @@ A simple **weather application** built using **HTML, CSS, and JavaScript** that 
 
 ## Demo
 
-[Live Demo](https://charithabimsara.github.io/Weather_Web_Page---JS/)
+[Live Demo](https://charithabimsara.github.io/Weather-App/)
 
 ## 🚀 Features
 
